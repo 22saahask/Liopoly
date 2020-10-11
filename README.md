@@ -1,2 +1,2 @@
-# Liopoly
-Monopoly game (in progress) by 22saahask/danielf191
+# liopoly
+Game of Monopoly (in progress) - by danielf191, 22saahask
